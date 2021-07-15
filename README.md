@@ -1,3 +1,3 @@
-# CyberGISX-Compute public tutorial
+# CyberGIS-Compute public tutorial
 
 This repo contains public tutorials for CyberGIS-Compute
